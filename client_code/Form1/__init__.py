@@ -10,7 +10,6 @@ class Form1(Form1Template):
 
     # Any code you write here will run before the form opens.
 
-
-def submit_button_click(self, **event_args):
-    # Display a pop
-    alert("You clicked the button")up that says 'You clicked the button'
+  def submit_button_click(self, **event_args):
+    # Display a popup that says 'You clicked the button'
+    alert("You clicked the button")
