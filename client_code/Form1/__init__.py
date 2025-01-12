@@ -13,3 +13,7 @@ class Form1(Form1Template):
   def submit_button_click(self, **event_args):
     """This method is called when the button is clicked"""
     pass
+
+def submit_button_click(self, **event_args):
+    # Display a pop
+    alert("You clicked the button")up that says 'You clicked the button'
